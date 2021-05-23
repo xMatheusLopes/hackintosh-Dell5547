@@ -1,5 +1,4 @@
-Probably some kexts are not necessary, if you detect which, please, update and make a pull request or open a new issue.
-Made with Olarila guide and requested an DSDT
+EFI Olarila's based
 
 What is working:
 - Audio
